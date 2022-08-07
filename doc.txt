@@ -5,3 +5,7 @@
 -Configuracion de git 
  git config --global user.name "Emilio Senguana"
  git config --global user.correo "sengua2017@gmail.com"
+
+
+- Para ver version anterior hacemos "git checkout "numeral git"  <nombre arhivoc>", recuperamos version anterior 
+ y para volver a la version de master(repositorio) hacemos "git checkout master <file name>"

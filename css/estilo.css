@@ -3,3 +3,10 @@ body{
     font-family: "Arial";
     color: deeppink;
 }
+
+#container{    
+    width: 50em;
+    padding: 1em;
+    border: 0.1em solid rgb(110, 124, 124);
+    margin: 0 auto;
+}
