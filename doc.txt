@@ -1,3 +1,7 @@
 - Para iniciar git hacemos "git init"
 - Agragamos "git add <file>"
 - Para eliminar archivo añadido hacemos "git rm --cached <file>"
+
+-Configuracion de git 
+ git config --global user.name "Emilio Senguana"
+ git config --global user.correo "sengua2017@gmail.com"
