@@ -1,0 +1,3 @@
+- Para iniciar git hacemos "git init"
+- Agragamos "git add <file>"
+- Para eliminar archivo añadido hacemos "git rm --cached <file>"
