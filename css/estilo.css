@@ -10,3 +10,10 @@ body{
     border: 0.1em solid rgb(110, 124, 124);
     margin: 0 auto;
 }
+
+#cabecera {
+    background: #594add;
+    color: aliceblue;
+    margin: 0;
+    padding: 0em;
+}
